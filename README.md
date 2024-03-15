@@ -1,4 +1,4 @@
-Market Interface Pattern
+Marker Interface Pattern
 
 Interfaces
 
