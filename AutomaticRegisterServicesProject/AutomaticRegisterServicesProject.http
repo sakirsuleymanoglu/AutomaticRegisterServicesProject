@@ -1,0 +1,6 @@
+@AutomaticRegisterServicesProject_HostAddress = http://localhost:5075
+
+GET {{AutomaticRegisterServicesProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
