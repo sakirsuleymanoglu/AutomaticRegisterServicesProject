@@ -16,6 +16,10 @@ Extension
 
 ![image](https://github.com/sakirsuleymanoglu/AutomaticRegisterServicesProject/assets/77621446/5437b1cb-90b7-42c2-a5a3-afbe87ab0a84)
 
+Program.cs
+
+![image](https://github.com/sakirsuleymanoglu/AutomaticRegisterServicesProject/assets/77621446/f71b6aff-0617-451f-89da-f05b75461e46)
+
 Example
 
 IProductService
@@ -29,10 +33,6 @@ With Abstract Services
 Without Abstract Services
 
 ![image](https://github.com/sakirsuleymanoglu/AutomaticRegisterServicesProject/assets/77621446/c3e54410-094e-4c6f-8ec0-7e6469db2559)
-
-Program.cs
-
-![image](https://github.com/sakirsuleymanoglu/AutomaticRegisterServicesProject/assets/77621446/f71b6aff-0617-451f-89da-f05b75461e46)
 
 ProductsController
 
